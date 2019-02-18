@@ -1,0 +1,23 @@
+{
+  "name": "backshadow_template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2",
+    "discord.js": "^11.4.2",
+    "fs": "0.0.1-security",
+    "lodash": "^4.17.11",
+    "mathjs": "^5.4.0",
+    "ping": "^0.2.2",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2",
+    "sitemap-generator": "^8.3.2",
+    "twilio": "^3.26.1"
+  }
+}

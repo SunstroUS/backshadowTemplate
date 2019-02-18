@@ -1,0 +1,19 @@
+{
+    "groupName": "GROUP_NAME",
+    "botClientID": "BOT_CLIENT_ID",
+    "botID" : "BOT_ID",
+    "discord_embed": {
+        "color" : "#E1E1E1",
+        "icon_url": "ICON_IMAGE_URL",
+        "title": "EMBED_TITLE",
+        "url": "EMBED_URL"
+    },
+    "channels": {
+        "main" : "MAIN_CHANNEL_ID"
+    },
+    "twilio": {
+        "account_sid" : "TWILLIO_ACCOUNT_SID",
+        "auth_token" : "TWILLIO_AUTH_TOKEN"
+    }
+  }
+  
